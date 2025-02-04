@@ -15,8 +15,9 @@ import android.content.ActivityNotFoundException;
 import android.content.ComponentName;
 import android.content.Intent;
 import android.content.pm.ResolveInfo;
+import android.content.pm.ActivityInfo;
 import android.net.Uri;
-import 	android.content.pm.ActivityInfo;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 
