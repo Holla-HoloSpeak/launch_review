@@ -23,6 +23,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 35
+    namespace "launch_review"
 
     defaultConfig {
         minSdkVersion 24
